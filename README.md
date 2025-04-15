@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I’m Naomi!  
+**Web Developer in training** | Lover of pink, code & soft power
 
-<!--
-**naomiwambui/naomiwambui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+- Student of life (and code)
+- Passionate about building beautiful, responsive websites
+- Currently learning **HTML, CSS, JavaScript** and web APIs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I’m Using:
+![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visualstudiocode)
+![HTML](https://img.shields.io/badge/HTML5-pink?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-ff69b4?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+  
+> — Naomi, Future Full Stack Queen
